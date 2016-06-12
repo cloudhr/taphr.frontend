@@ -14,7 +14,7 @@ let AppComponent = class AppComponent {
 AppComponent = __decorate([
     core_1.Component({
         selector: 'app-root',
-        template: '<h4> My first NG2 App</h4>'
+        templateUrl: './app/app.html'
     }), 
     __metadata('design:paramtypes', [])
 ], AppComponent);
