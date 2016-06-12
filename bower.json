@@ -1,0 +1,25 @@
+{
+  "name": "taphr.frontend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cloudhr/taphr.frontend",
+  "authors": [
+    "Larry Eliemenye <admin@taphr.io>"
+  ],
+  "description": "frontend depencecies for THR Frontend",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#~2.1.8"
+  }
+}
